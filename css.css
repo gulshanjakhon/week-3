@@ -70,11 +70,14 @@
 @media screen and (max-width: 768px) {
     .colum1 {
       float: left;
+      flex: 1;
     }
     .colum2 {
+        flex: 1;
         float: left;
       }
       .colum3 {
+          flex: 1;
         float: left;
       }
   }
